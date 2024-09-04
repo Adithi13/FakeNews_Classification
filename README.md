@@ -15,12 +15,13 @@ The goal of this project is to identify fake news by applying various NLP techni
 ## Steps to Run the Project
 
 1. **Clone the repository:**
-   
+   ```
    git clone https://github.com/Adithi13/FakeNews_Classification.git
-   
+   ```
 2. **Navigate to the project directory:**
+   ```
       cd Fake-News-Classification
-
+   
 ## Results
 The model achieved an accuracy of 93.6% on the testing dataset.
 
